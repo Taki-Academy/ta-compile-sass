@@ -1,0 +1,27 @@
+{
+  "name": "ta-compile-sass",
+  "version": "0.0.1",
+  "description": "const fs = require('fs');",
+  "main": "compile sass files from all modules",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Taki-Academy/ta-compile-sass.git"
+  },
+  "keywords": [
+    "ta",
+    "sass",
+    "compiler"
+  ],
+  "author": "Taki Academy dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Taki-Academy/ta-compile-sass/issues"
+  },
+  "homepage": "https://github.com/Taki-Academy/ta-compile-sass#readme",
+  "dependencies": {
+    "node-sass": "^4.5.3"
+  }
+}
